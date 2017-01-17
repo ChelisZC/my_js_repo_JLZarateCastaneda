@@ -22,10 +22,10 @@ console.log("print this 10 lines");
 
 //3.- Declare 5 different variables, it can be either a number or a String.
 var counter = 0;
-var String = "Type your text here...";
+var string = "Type your text here...";
 var myAge = 30;
 var Excersice3 = "Declare 5 different variables...";
-var bool = "false";
+var bool = false;
 
 //4.- Ask a user 5 different questions.
 console.log("1.- What is your favorite food?");
@@ -36,8 +36,8 @@ console.log("5.- When are you going to travel where you want to?");
 
 //5.- Declare at least 5 arrays, either only numbers, Strings or mixed.*/
 
-var myArray1 = ["3", "2", "1", "0"];
-var myName&Age = ["Jose Luis", "Zarate", "Castañeda", "30"];
-var Array2 = ["33", "3223", "321123", "32100123"];
+var myArray1 = [3, 2, 1, 0];
+var myNameandAge = ["Jose Luis", "Zarate", "Castañeda", "30"];
+var Array2 = [33, 3223, 321123, 32100123];
 var myChildsNames = ["Yago", "Sinaí"];
 var myArrayPlacestoVisit = ["Mariposa Monarva", "Veracruz", "Huachimontones", "Secrets"];
