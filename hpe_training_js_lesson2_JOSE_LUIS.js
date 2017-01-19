@@ -18,6 +18,7 @@ console.log("Tu nombre es: Jose Luis".substring(5,7));
 console.log("ApP: Zarate".substring(1,3));
 console.log("ApM: Castañeda".substring(0,5));
 console.log("MN: Luis".substring(2,3));
+console.log("Nickname: Chelis".substring(0,2));
 
 //3.- Declare 5 Arrays and print only one of the values inside, it can be any of them.
 var myArray1 = [3, 2, 1, 0];
