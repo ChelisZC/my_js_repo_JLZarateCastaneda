@@ -29,7 +29,7 @@ var bool = false;
 
 //4.- Ask a user 5 different questions.
 console.log("1.- What is your favorite food?");
-console.log("2.- Where would you like to staty on your last days?");
+console.log("2.- Where would you like to stay on your last days?");
 console.log("3.- Who are the person that marks your LIFE/HEART?");
 console.log("4.- How can you help?");
 console.log("5.- When are you going to travel where you want to?");
