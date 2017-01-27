@@ -4,13 +4,19 @@
 // Exercises for lesson 2:
 //1.- Using Logical Operators, write 6 comparations, 3 that returns true and 3 others that return false. It can be either a comparation between a length of a String and a number, or just between numbers.
 
-8 === 7;
-var z = 7; z > 8;
-var y = 9; z > y;
+//8 === 7;
+var numero = 7;
+console.log(numero > 8);
+var numero2 = 8;
+console.log(numero2 > 9);
+console.log(numero2 < numero);
 
-myLastName = "ZARATE"; myLastName.length >= 6;
-myFirstName = "JOSE"; myLastName.length > myFirstName.length;
-myMiddleName = "LUIS", myLastName.length > myMiddleName.length;
+var myLastName = "ZARATE";
+console.log(myLastName.length >= 6);
+var myFirstName = "JOSE";
+console.log(myLastName.length > myFirstName.length);
+var myMiddleName = "LUIS";
+console.log(myLastName.length > myMiddleName.length);
 
 //2.- Using Substrings and this coordinates: (0,2), (2,3), (0,5), (1,3), (5,7), Write 5 different sentences and print out the output.
 
@@ -35,11 +41,13 @@ console.log(myArrayPlacestoVisit[0]);
 //var respuesta = prompt("¿How old are you?");
 
 //4.- Write 6 simple if's, where if the condition is true, prints this: "I'm doing it in the right way"
-if (z < y) {   console.log("I'm doing it in the right way"); }
+var zeta = 8;
+var yago = 3;
+if (zeta < yago) {   console.log("I'm doing it in the right way"); }
 
-if (z <= y) {  console.log("I'm doing it in the right way"); }
+if (zeta <= yago) {  console.log("I'm doing it in the right way"); }
 
-if (y < 10) {  console.log("I'm doing it in the right way"); }
+if (yago < 10) {  console.log("I'm doing it in the right way"); }
 
 if (0 <= 1) {  console.log("I'm doing it in the right way"); }
 
