@@ -46,11 +46,10 @@ var num = 0;
 //P4 E5
 
 var numfromUser = prompt("Teclea un numero y luego presionar Enter:");
-if (numfromUser < 7)
-{
-console.log("Tu número es menor a 7, tu número es:"+numfromUser);
+if (numfromUser < 7){
+  console.log("Tu número es menor a 7, tu número es:"+numfromUser);
 }
-else if (numfromUser = 7) {
+else if(numfromUser==7) {
   console.log("Atinaste mi numero favorito");
 }
   else {
