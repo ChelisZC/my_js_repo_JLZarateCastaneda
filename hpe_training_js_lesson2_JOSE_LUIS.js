@@ -35,7 +35,7 @@ var Array2 = [33, 3223, 321123, 32100123];
 console.log(Array2[2]);
 var myChildsNames = ["Yago", "Sinaína"];
 console.log(myChildsNames[1]);
-var myArrayPlacestoVisit = ["Mariposas Monarva", "Veracruz", "Huachimontones", "Secrets"];
+var myArrayPlacestoVisit = ["Mariposas Monarca", "Veracruz", "Huachimontones", "Secrets"];
 console.log(myArrayPlacestoVisit[0]);
 
 //var respuesta = prompt("¿How old are you?");
