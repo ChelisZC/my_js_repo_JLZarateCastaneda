@@ -45,13 +45,13 @@ var num = 0;
 
 //P4 E5
 
-var numfromUser = prompt("Teclea un numero y luego presionar Enter:");
+var numfromUser = prompt("Teclea un número y luego presionar Enter:");
 if (numfromUser < 7){
-  console.log("Tu número es menor a 7, tu número es:"+numfromUser);
+  console.log("Tu número es menor a 7, tú número es:"+numfromUser);
 }
-else if(numfromUser==7) {
-  console.log("Atinaste mi numero favorito");
+else if(numfromUser == 7) {
+  console.log("Atinaste mi número favorito: 7");
 }
   else {
-    console.log("Tu número es mayor a 7, tu número es:"+numfromUser);
+    console.log("Tu número es mayor a 7, tú número es:"+numfromUser);
   }
