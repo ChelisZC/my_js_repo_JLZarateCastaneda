@@ -50,7 +50,7 @@ if (numfromUser < 7){
   console.log("Tu número es menor a 7, tú número es:"+numfromUser);
 }
 else if(numfromUser == 7) {
-  console.log("Atinaste mi número favorito: 7");
+  console.log("Atinaste mi número favorito: "+numfromUser);
 }
   else {
     console.log("Tu número es mayor a 7, tú número es:"+numfromUser);
